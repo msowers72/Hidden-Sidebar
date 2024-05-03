@@ -40,8 +40,8 @@ As a user, I can submit an online application for membership in the U.S.ARMY'S J
  
  
  ![images](./assets/img/Home.png) 
- ![images](./assets/img/welcomeback.png) 
- ![images](./assets/img/Congrats.png) 
+ ![images](./assets/img/sidebarview.png) 
+ 
  
 
 
